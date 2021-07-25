@@ -1,7 +1,10 @@
-<h2 align="center">Hello, I'm DoctorRaven 👋</h2>
+<h3 align="center">Hello, I'm DoctorRaven 👋</h3>
+<div align="center">
+  <a href="https://doctorraven.netlify.app/">Website</a>
+</div>
 
 ## Description
-I'm a web developer. I love functional programming.
+Just check my [website](https://doctorraven.netlify.app/) as I'm too lazy to write it all here.
 
 ## Languages & Tech
 
